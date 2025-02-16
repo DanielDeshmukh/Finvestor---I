@@ -1,4 +1,4 @@
-# 🚀 **Finvestor-I: AI-Powered Stock Market Prediction System**
+# 🚀 **Finvestor-I: An AI Model**
 
 ## 📌 **Overview**
 Finvestor-I is a **hybrid AI model** that analyzes financial data, predicts stock price trends, and estimates risks. By integrating **machine learning, deep learning, and statistical analysis**, it provides investors with **data-driven insights** for better decision-making.
